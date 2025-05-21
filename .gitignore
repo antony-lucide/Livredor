@@ -1,0 +1,10 @@
+/vendor/
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+/logs/
+/cache/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+{
+    "name": "antony/livreor",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Antony\\Livreor\\": "src/"
+        }
+    },
+    "require": {}
+}
