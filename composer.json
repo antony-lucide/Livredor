@@ -6,5 +6,11 @@
             "Antony\\Livreor\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "antony-lucide",
+            "email": "113905621+antony.lucide@laplateforme.io"
+        }
+    ],
     "require": {}
 }
